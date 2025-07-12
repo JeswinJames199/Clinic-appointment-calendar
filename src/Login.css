@@ -1,0 +1,22 @@
+.Login-button {
+  width: 100%;
+  padding: 0.75rem;
+  background-color: #0077cc;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.login-button:hover {
+  background-color: #005fa3;
+}
+@media (max-width: 768px) {
+  img[src="/images/docs.png"] {
+    width: 200px !important;
+    right: 1rem;
+    bottom: 0.5rem;
+  }
+}
