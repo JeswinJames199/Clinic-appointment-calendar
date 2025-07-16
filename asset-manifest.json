@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Clinic-appointment-calendar/static/css/main.3fbf88d9.css",
+    "main.js": "/Clinic-appointment-calendar/static/js/main.dcd1dd62.js",
+    "index.html": "/Clinic-appointment-calendar/index.html",
+    "main.3fbf88d9.css.map": "/Clinic-appointment-calendar/static/css/main.3fbf88d9.css.map",
+    "main.dcd1dd62.js.map": "/Clinic-appointment-calendar/static/js/main.dcd1dd62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fbf88d9.css",
+    "static/js/main.dcd1dd62.js"
+  ]
+}
